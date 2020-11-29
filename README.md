@@ -8,3 +8,4 @@
 
 4. [Face-Recognition using openCV](https://github.com/prathusingal/Face-Recognition)
 
+5. [Digit-Recognition using neural networks](https://github.com/prathusingal/Digit-Recognition)
