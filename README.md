@@ -6,3 +6,5 @@
 
 3. [Mobile Application to Monitor Social Distancing](https://github.com/prathusingal/Break-the-chain)
 
+4. [Face-Recognition using openCV](https://github.com/prathusingal/Face-Recognition)
+
